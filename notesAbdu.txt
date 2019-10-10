@@ -1,0 +1,7 @@
+installed:
+pip install --upgrade google-api-python-client
+pip install --upgrade google-cloud
+pip.exe install google-cloud-language
+pip install virtualenv
+pip install --upgrade google-cloud-speech #nothing changed tho
+pip install --upgrade google-cloud-texttospeech
