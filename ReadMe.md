@@ -36,10 +36,10 @@ interaction with the elderly and provide special services for them.
 
 ## Authors
 
-Tatiana
-Jason
-Abdullah Najjar
-Michael
+Tatiana Voorhees  <b/>
+Jason Huffman  <b/>
+Abdullah Najjar  <b/>
+Michael Moses  <b/>
 
 ## License
 
